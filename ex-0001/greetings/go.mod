@@ -1,3 +1,3 @@
-module ex-0001/greetings
+module example.com/greetings
 
 go 1.26.1
